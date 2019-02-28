@@ -1,3 +1,11 @@
 body {
-  background: purple;
+  background: lightpink;
+}
+
+main {
+  background-color: pink;
+}
+
+footer {
+  background-color: magenta;
 }
