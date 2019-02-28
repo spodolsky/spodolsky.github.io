@@ -1,11 +1,15 @@
+/*
+#1E3238
+#485665
+#8E7C93
+#D0A5C0
+#F6C0D0
+*/
+
 body {
-  background: lightpink;
+  background: #F6C0D0;
 }
 
-main {
-  background: pink;
-}
-
-footer {
-  background: magenta;
+h2 {
+  color: #1E3238;
 }
